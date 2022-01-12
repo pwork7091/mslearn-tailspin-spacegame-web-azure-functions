@@ -56,8 +56,8 @@ stages:
     - publish: $(Build.ArtifactStagingDirectory)
       artifact: drop
       displayName: 'Azure Function Deploy: leaderboard'
-      inputs:
-        azureSubscription: tailspin-space-game-asp
+      inputs
+        azureSubscription: Resource Manager - Tailspin - Space Game
         appType: functionAppLinux
         appName: $(LeaderboardAppName)
         package: $(Pipeline.Workspace)/drop/$(buildConfiguration)/Tailspin.SpaceGame.LeaderboardFunction.zip
