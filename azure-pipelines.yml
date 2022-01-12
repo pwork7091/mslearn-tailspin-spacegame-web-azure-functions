@@ -1,10 +1,10 @@
 ### YamlMime:Yaml
-ms.openlocfilehash: f541e711159de963afd1f08cf48dd897fb818300
-ms.sourcegitcommit: f3937681c3f6e310355071e1842967695e365751
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 10/29/2021
-ms.locfileid: "130813002"
+#ms.openlocfilehash: f541e711159de963afd1f08cf48dd897fb818300
+#ms.sourcegitcommit: f3937681c3f6e310355071e1842967695e365751
+#ms.translationtype: HT
+#ms.contentlocale: ru-RU
+#ms.lasthandoff: 10/29/2021
+#ms.locfileid: "130813002"
 stages:
 - stage: Build
   displayName: Build the web application
